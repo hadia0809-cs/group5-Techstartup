@@ -59,7 +59,7 @@ body {
     text-decoration: none;  /* Removes the default underline */
     color: #1a1a1a;        /* Sleek dark grey/black */
     font-size: 0.85rem;     /* Slightly smaller for a premium look */
-    font-weight: 700;       /* Bold text as seen in your screenshot */
+    font-weight: 700;       /* Bold text as seen */
     letter-spacing: 1.5px;  /* Spaced out letters for a 'tech' feel */
     text-transform: uppercase; /* Ensures all caps */
     transition: all 0.3s ease; /* Smooth color transition */
@@ -72,7 +72,7 @@ body {
     color: #43a047; /* Green Byte Green */
 }
 
-/* THE DREAMY UNDERLINE EFFECT
+/* 
    This creates a small green bar that grows from the center 
    when you hover over a link.
 */
@@ -107,7 +107,7 @@ body {
     max-width: 800px;
     background: white;
     padding: 60px;
-    border-radius: 40px; /* Extra rounded for a soft feel */
+    border-radius: 40px; /* Extra rounded */
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.05); /* Very soft shadow */
     transition: transform 0.3s ease;
 }

@@ -11,7 +11,6 @@
     --text-muted: #666;
 }
 
-/* --- RESET & BASE --- */
 * { 
     margin: 0; 
     padding: 0; 
@@ -189,7 +188,7 @@ body {
         padding: 0 20px;
     }
     .nav-bar ul {
-        display: none; /* Hide nav on mobile for simplicity, or use a hamburger menu */
+        display: none; 
     }
     .bento-container {
         grid-template-columns: 1fr;

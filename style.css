@@ -67,7 +67,7 @@ nav a {
     color: #1a1a1a;        /* Sleek dark grey/black */
     font-size: 0.85rem;     /* Slightly smaller for a premium look */
     font-weight: 700;       /* Bold text as seen in your screenshot */
-    letter-spacing: 2px;  /* Spaced out letters for a 'tech' feel */
+    letter-spacing: 2px;  
     text-transform: uppercase; /* Ensures all caps */
     transition: all 0.3s ease; /* Smooth color transition */
     position: relative;     /* Required for the underline effect below */
@@ -79,7 +79,7 @@ nav a.active {
     color: #43a047; /* Green Byte Green */
 }
 
-/* THE DREAMY UNDERLINE EFFECT
+/* 
    This creates a small green bar that grows from the center 
    when you hover over a link.
 */
