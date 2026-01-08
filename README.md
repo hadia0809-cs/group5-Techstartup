@@ -1,12 +1,12 @@
-Green Byte - Tech startup
- Summary 
+# Green Byte - Tech startup
+ ## Summary 
 This document presents a Tech setup Website developed as a part of the AICT Lab semester 
 project. The website represents an imaginary technology-based start up that offers digital 
 solutions and services. The purpose of this project is to demonstrate website design skills using 
 HTML and CSS, along with documentation, data handling, presentation, and version control 
 using professional tools. 
 
-Images (Used in Website) Links: 
+### Images (Used in Website) Links: 
 https://i.pinimg.com/736x/98/a0/a6/98a0a60d2bcb17075ec9a146da8c2588.jpg
 https://i.pinimg.com/736x/e8/68/78/e8687806e24d73d26caf4b577ce9f802.jpg
 https://i.pinimg.com/1200x/81/d0/61/81d061b6f65aba602aca8a3bfba93368.jpg
